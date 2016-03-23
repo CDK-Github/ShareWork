@@ -25,6 +25,13 @@ La lecture du [README](https://github.com/Cedrik86/ShareWork/blob/master/README.
 #InvoiceNinja
 Outil afin de facturer des clients en ligne.
 
+##Installation
+- [X] Repository https://github.com/
+- [X] Clone Workspace https://c9.io/
+- [X] Clone local avec workspace Eclipse
+
+La lecture du [README](https://github.com/Cedrik86/ShareWork/blob/master/README.md) sera donc primordiale pour comprendre la méthode utilisée pour le développement de ce projet.
+
 ##InvoiceNinja Application
 
 > Objectif : Assimiler et acquérier les méthodes pour déployer une application existante
