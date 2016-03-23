@@ -1,9 +1,6 @@
 #ShareWork
 Réseau de mise en commun de matériel et d'outils entre adhérents d'un même réseau.
 
-#InvoiceNinja
-Outil afin de facturer des clients en ligne.
-
 ##Installation
 - [X] Repository https://github.com/
 - [X] Clone Workspace https://c9.io/
@@ -24,6 +21,9 @@ La lecture du [README](https://github.com/Cedrik86/ShareWork/blob/master/README.
 - [X] Implémenter de nouvelles routes & nouveaux controleurs
 - [ ] Implémenter les vues
 - [ ] Réaliser les sessions de test
+
+#InvoiceNinja
+Outil afin de facturer des clients en ligne.
 
 ##InvoiceNinja Application
 
