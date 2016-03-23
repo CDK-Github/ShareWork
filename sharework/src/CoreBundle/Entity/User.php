@@ -2,8 +2,6 @@
 
 namespace CoreBundle\Entity;
 
-use Doctrine\ORM\Mapping as ORM;
-
 /**
  * User
  */
@@ -23,6 +21,11 @@ class User
      * @var string
      */
     private $password;
+    
+    /**
+     * @var boolean
+     */
+    private $status;
 
 
     /**
@@ -81,6 +84,37 @@ class User
     public function getPassword()
     {
         return $this->password;
+    }
+    
+    /**
+     * Set status
+     * 
+     * @param boolean $status
+     * 
+     * @return User
+     */
+    public function setStatus($status)
+    {
+        $this->status = $status;
+        
+        return $this;
+    }
+    
+    /**
+     * Get status
+     * 
+     * @return string
+     */
+    public function getStatus()
+    {
+        if($this->status = 0)
+        {
+            return "OFFLINE";
+        }
+        else
+        {
+            return "ONLINE";
+        }
     }
 }
 

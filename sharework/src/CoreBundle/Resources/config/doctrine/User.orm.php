@@ -24,4 +24,9 @@ $metadata->mapField(array(
    'type' => 'string',
    'length' => '16',
   ));
+$metadata->mapField(array(
+   'columnName' => 'status',
+   'fieldName' => 'status',
+   'type' => 'boolean',
+   ));
 $metadata->setIdGeneratorType(ClassMetadataInfo::GENERATOR_TYPE_AUTO);
