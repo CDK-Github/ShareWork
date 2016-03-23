@@ -10,4 +10,14 @@ class DefaultController extends Controller
     {
         return $this->render('CoreBundle:Default:index.html.twig');
     }
+    
+    public function shareAction()
+    {
+        return $this->render('CoreBundle:Default:share.html.twig');
+    }
+    
+    public function inventoryAction()
+    {
+        return $this->render('CoreBundle:Default:inventory.html.twig');
+    }
 }
