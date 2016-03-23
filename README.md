@@ -9,7 +9,7 @@ Outil afin de facturer des clients en ligne.
 - [X] Clone Workspace https://c9.io/
 - [X] Clone local avec workspace Eclipse
 
-La lecture du **README.md** sera donc primordiale pour comprendre la méthode utilisée pour le développement de ce projet.
+La lecture du [README](https://github.com/Cedrik86/ShareWork/blob/master/README.md) sera donc primordiale pour comprendre la méthode utilisée pour le développement de ce projet.
 
 ##ShareWork Application
 
