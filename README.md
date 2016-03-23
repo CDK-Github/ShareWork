@@ -11,6 +11,7 @@ La lecture du **README.md** sera donc primordiale pour comprendre la méthode ut
 ###ShareWork Application
 - [X] Création du projet
 - [X] Création du CoreBundle (Bundle moteur de l'application)
-- [ ] Développer les entités (Les futures tables de la DB)
+- [X] Développer les entités
+    * L'entité *User* a été modifiée afin que son status affiche "OFFLINE" ou "ONLINE" à partir d'un booléen.
 - [ ] Implémenter les vues
 - [ ] Réaliser les sessions de test
