@@ -10,8 +10,10 @@ La lecture du **README.md** sera donc primordiale pour comprendre la méthode ut
 
 ###ShareWork Application
 - [X] Création du projet
-- [X] Création du CoreBundle (Bundle moteur de l'application)
+- [X] Création du CoreBundle
 - [X] Développer les entités
     * L'entité *User* a été modifiée afin que son status affiche "OFFLINE" ou "ONLINE" à partir d'un booléen.
+    * L'entité *Tool* regroupe l'ensemble des matériels/outils qui seront partagés dans les inventaires.
+    * L'entité *Inventaire* me semble important afin de créer un semblant de portefeuille avec une trace datée du partage d'un *Tool*.
 - [ ] Implémenter les vues
 - [ ] Réaliser les sessions de test
