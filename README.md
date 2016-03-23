@@ -1,5 +1,6 @@
 #ShareWork
 Réseau de mise en commun de matériel et d'outils entre adhérents d'un même réseau.
+> Objectif : Assimiler et s'approprier les méthodes de travail avec Symfony
 
 ##Installation
 - [X] Repository https://github.com/
@@ -9,9 +10,6 @@ Réseau de mise en commun de matériel et d'outils entre adhérents d'un même r
 La lecture du [README](https://github.com/Cedrik86/ShareWork/blob/master/README.md) sera donc primordiale pour comprendre la méthode utilisée pour le développement de ce projet.
 
 ##ShareWork Application
-
-> Objectif : Assimiler et s'approprier les méthodes de travail avec Symfony
-
 - [X] Création du projet
 - [X] Création du CoreBundle
 - [X] Développer les entités
@@ -24,6 +22,7 @@ La lecture du [README](https://github.com/Cedrik86/ShareWork/blob/master/README.
 
 #InvoiceNinja
 Outil afin de facturer des clients en ligne.
+> Objectif : Assimiler et acquérier les méthodes pour déployer une application existante
 
 ##Installation
 - [X] Repository https://github.com/
@@ -33,9 +32,6 @@ Outil afin de facturer des clients en ligne.
 La lecture du [README](https://github.com/Cedrik86/ShareWork/blob/master/README.md) sera donc primordiale pour comprendre la méthode utilisée pour le développement de ce projet.
 
 ##InvoiceNinja Application
-
-> Objectif : Assimiler et acquérier les méthodes pour déployer une application existante
-
 - [ ] Configuration de l'application
 - [ ] Déployer l'application
 - [ ] Réaliser les sessions de test
