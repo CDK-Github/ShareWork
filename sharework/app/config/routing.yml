@@ -1,0 +1,7 @@
+core:
+    resource: "@CoreBundle/Resources/config/routing.php"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
