@@ -21,7 +21,7 @@ La lecture du **README.md** sera donc primordiale pour comprendre la méthode ut
     * L'entité *User* a été modifiée afin que son status affiche "OFFLINE" ou "ONLINE" à partir d'un booléen.
     * L'entité *Tool* regroupe l'ensemble des matériels/outils qui seront partagés dans les inventaires.
     * L'entité *Inventaire* me semble important afin de créer un semblant de portefeuille avec une trace datée du partage d'un *Tool*.
-- [ ] Implémenter de nouvelles routes & nouveaux controleurs
+- [X] Implémenter de nouvelles routes & nouveaux controleurs
 - [ ] Implémenter les vues
 - [ ] Réaliser les sessions de test
 
@@ -29,6 +29,6 @@ La lecture du **README.md** sera donc primordiale pour comprendre la méthode ut
 
 > Objectif : Assimiler et acquérier les méthodes pour déployer une application existante
 
-- []
-- []
-- []
+- [ ] Configuration de l'application
+- [ ] Déployer l'application
+- [ ] Réaliser les sessions de test
